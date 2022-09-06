@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+run.sh
+c10.py
+*/*/*2.npy
+*/*/*3.npy
+*/*/*4.npy
